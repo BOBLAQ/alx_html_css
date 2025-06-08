@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <ul>
+    <li class="logo">&#128058;</li> <!-- This is your logo -->
+    <li>Home</li>
+    <li>About</li>
+    <li>Contact</li>
+  </ul>
+</header>
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="UTF-8">
   <title>My First Portfolio</title>
