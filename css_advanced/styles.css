@@ -84,3 +84,20 @@ footer {
   background-color: #e6f7ff;
   font-style: italic;
 }
+.videos {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.video-list {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.video img {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 10px;
+}
