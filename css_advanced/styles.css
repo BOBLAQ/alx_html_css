@@ -101,3 +101,17 @@ footer {
   max-width: 300px;
   border-radius: 10px;
 }
+.membership {
+  background-color: #fff8e1;
+  padding: 60px;
+  text-align: center;
+}
+
+.membership button {
+  padding: 12px 24px;
+  background-color: #ff5722;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
